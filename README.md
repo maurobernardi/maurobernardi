@@ -1,4 +1,4 @@
-## Welcome to Mauro Bernardi's profile! 
+## Welcome to `#f03c15` Mauro Bernardi's `#f03c15` profile! 
 
 - 🔭 I’m currently working on:
   1. variational methods for fast high dimensional Bayesian model selection with Luca Maestrini https://sites.google.com/view/lucamaestrini and Giulia Livieri https://www.lse.ac.uk/statistics/people/giulia-livieri
