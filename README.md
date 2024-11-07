@@ -1,6 +1,6 @@
 ## Welcome to Mauro Bernardi's profile! 
 
-- 🔭 I’m currently working on fast high dimensional Bayesian model selection with Luca Maestrini.
+- 🔭 I’m currently working on variational methods for fast high dimensional Bayesian model selection with Luca Maestrini and Giulia Livieri.
 
 <!--
 **maurobernardi/maurobernardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
