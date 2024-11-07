@@ -4,7 +4,7 @@
   1. variational methods for fast high dimensional Bayesian model selection with Luca Maestrini and Giulia Livieri
   2. fast MCMC methods for Bayesian model selection with Emanuela Cattelan and Claudio Busatto
   3. convex clustering for functional data analysis with Marco Stefanucci and Tony Canale @unipd
-  4. mantainer on CRAN of the R Package fdaSP https://cran.r-project.org/web/packages/fdaSP/index.html
+  4. developer and mantainer on CRAN of the R Package fdaSP https://cran.r-project.org/web/packages/fdaSP/index.html
      
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: (mail) mauro.bernardi@unipd.it, (office) room 147 at Department of Statistical Sciences, University of Padova, Via Cesare Battisti, 241, Padova, Italy
