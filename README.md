@@ -11,6 +11,7 @@
 - 🌱 I’m currently reading the book [Everything is predictable: How Bayesian Statistics Explain Our World](https://www.goodreads.com/book/show/199798096-everything-is-predictable) by Tom Chivers
 - 📚 My suggested books are:
   1. Åke Björck, [Numerical Methods for Least Squares Problems](https://epubs.siam.org/doi/book/10.1137/1.9781611971484)
+  2. Gene H. Golub and Charles F. Van Loan [Matrix Computations](https://epubs.siam.org/doi/book/10.1137/1.9781421407944)
 
 
     
