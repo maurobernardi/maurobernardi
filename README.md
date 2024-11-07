@@ -8,7 +8,7 @@
      
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: (mail) mauro.bernardi@unipd.it, (office) room 147 at Department of Statistical Sciences, University of Padova, Via Cesare Battisti, 241, Padova, Italy
-- 🌱 I’m currently reading the book Everything is predictable by Tom Chivers
+- 🌱 I’m currently reading the book [Everything is predictable: How Bayesian Statistics Explain Our World](https://www.goodreads.com/book/show/199798096-everything-is-predictable) by Tom Chivers
 
 <!--
 **maurobernardi/maurobernardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
