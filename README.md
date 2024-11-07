@@ -13,7 +13,7 @@
   1. Åke Björck, [Numerical Methods for Least Squares Problems](https://epubs.siam.org/doi/book/10.1137/1.9781611971484)
   2. Gene H. Golub and Charles F. Van Loan, [Matrix Computations](https://epubs.siam.org/doi/book/10.1137/1.9781421407944)
   3. Stephen Boyd and Lieven Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-  4. kenneth Lange, [MM Optimization Algorithms](https://epubs.siam.org/doi/book/10.1137/1.9781611974409)
+  4. Kenneth Lange, [MM Optimization Algorithms](https://epubs.siam.org/doi/book/10.1137/1.9781611974409)
   5. Prakash Gorroochurn, [Classic Topics on the History of Modern Mathematical Statistics: From Laplace to More Recent Times](https://www.goodreads.com/book/show/26518444-classic-topics-on-the-history-of-modern-mathematical-statistics)
 
 
