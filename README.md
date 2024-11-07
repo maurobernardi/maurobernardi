@@ -1,9 +1,9 @@
 ## Welcome to Mauro Bernardi's profile! 
 
 - 🔭 I’m currently working on:
-  1. variational methods for fast high dimensional Bayesian model selection with Luca Maestrini and Giulia Livieri
+  1. variational methods for fast high dimensional Bayesian model selection with Luca Maestrini https://sites.google.com/view/lucamaestrini and Giulia Livieri https://www.lse.ac.uk/statistics/people/giulia-livieri
   2. fast MCMC methods for Bayesian model selection with Emanuela Cattelan and Claudio Busatto
-  3. convex clustering for functional data analysis with Marco Stefanucci https://marcostefanucci.github.io/ and Tony Canale @unipd
+  3. convex clustering for functional data analysis with Marco Stefanucci https://marcostefanucci.github.io/ and Tony Canale https://tonycanale.github.io/
   4. developer and mantainer on CRAN of the R Package fdaSP https://cran.r-project.org/web/packages/fdaSP/index.html
      
 - 💬 Ask me about anything, I am happy to help
