@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on variational methods for fast high dimensional Bayesian model selection with Luca Maestrini and Giulia Livieri.
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: mauro.bernardi@unipd.it
+- 📫 How to reach me: mauro.bernardi@unipd.it, office: room 147, Department of Statistical Sciences, University of Padova, Via Cesare Battisti, 241, Padova, Italy
 
 <!--
 **maurobernardi/maurobernardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
