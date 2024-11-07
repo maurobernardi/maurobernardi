@@ -1,4 +1,4 @@
-## Welcome to Mauro Bernardi's profile! 
+## Welcome to \textcolor{red}{red}{Mauro Bernardi}'s profile! 
 
 - 🔭 I’m currently working on fast high dimensional Bayesian model selection with Luca Maestrini.
 
