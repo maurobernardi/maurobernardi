@@ -16,7 +16,7 @@
   4. Kenneth Lange, [MM Optimization Algorithms](https://epubs.siam.org/doi/book/10.1137/1.9781611974409)
   5. Prakash Gorroochurn, [Classic Topics on the History of Modern Mathematical Statistics: From Laplace to More Recent Times](https://www.goodreads.com/book/show/26518444-classic-topics-on-the-history-of-modern-mathematical-statistics)
 
-
+## Recent publications
 
 
 
