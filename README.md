@@ -9,7 +9,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: (mail) mauro.bernardi@unipd.it, (office) room 147 at Department of Statistical Sciences, University of Padova, Via Cesare Battisti, 241, Padova, Italy
 - 🌱 I’m currently reading the book [Everything is predictable: How Bayesian Statistics Explain Our World](https://www.goodreads.com/book/show/199798096-everything-is-predictable) by Tom Chivers
-- 📚 My suggested reading are:
+- 📚 My suggested readings are:
   1. Åke Björck, [Numerical Methods for Least Squares Problems](https://epubs.siam.org/doi/book/10.1137/1.9781611971484)
   2. Gene H. Golub and Charles F. Van Loan, [Matrix Computations](https://epubs.siam.org/doi/book/10.1137/1.9781421407944)
   3. Stephen Boyd and Lieven Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
