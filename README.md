@@ -18,7 +18,7 @@
 
 ## Working paper and publications
 - Mauro Bernardi, Roberto Casarin, Bertrand Maillet, Lea Petrella [Bayesian Dynamic Quantile Model Averaging](https://arxiv.org/html/1602.00856v2), Annals of Operational Research, forthcoming
-- Mauro Bernardi, Marco Stefanucci, Antonio Canale, [Locally Sparse Function-on-Function Regression](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2130926)
+- Mauro Bernardi, Marco Stefanucci, Antonio Canale, [Locally Sparse Function-on-Function Regression](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2130926), Journal of Computational and Graphical Statistics Volume 32, 2023  
 
 
 
