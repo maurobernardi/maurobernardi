@@ -16,7 +16,7 @@
   4. Kenneth Lange, [MM Optimization Algorithms](https://epubs.siam.org/doi/book/10.1137/1.9781611974409)
   5. Prakash Gorroochurn, [Classic Topics on the History of Modern Mathematical Statistics: From Laplace to More Recent Times](https://www.goodreads.com/book/show/26518444-classic-topics-on-the-history-of-modern-mathematical-statistics)
 
-## Working paper and publications
+## Recent working papers and publications
 - Mauro Bernardi, Roberto Casarin, Bertrand Maillet, Lea Petrella [Bayesian Dynamic Quantile Model Averaging](https://arxiv.org/html/1602.00856v2), Annals of Operational Research, *forthcoming*
 - Cristian Castiglione, Eleonora Arnone, Mauro Bernardi, Alessio Farcomeni, Laura M. Sangalli, [PDE-regularised spatial quantile regression](https://www.sciencedirect.com/science/article/pii/S0047259X24000885), Journal of Multivariate Analaysis, Volume 205, 2025
 - Mauro Bernardi, Marco Stefanucci, Antonio Canale, [Locally Sparse Function-on-Function Regression](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2130926), Journal of Computational and Graphical Statistics Volume 32, 2023  
