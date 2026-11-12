@@ -17,7 +17,9 @@
   5. Prakash Gorroochurn, [Classic Topics on the History of Modern Mathematical Statistics: From Laplace to More Recent Times](https://www.goodreads.com/book/show/26518444-classic-topics-on-the-history-of-modern-mathematical-statistics)
 
 ## Recent working papers and publications
-- Marco Stefanucci, Mauro Bernardi, Antonio Canale, [https://www.sciencedirect.com/science/article/pii/S0047259X26001351](Interpretable functional linear regression via local sparsity promoting penalty), Journal of Multivariate Analysis, Volume 217, 2027
+- Marco Stefanucci, Mauro Bernardi, Antonio Canale,
+[Interpretable functional linear regression via local sparsity promoting penalty](https://www.sciencedirect.com/science/article/pii/S0047259X26001351),
+*Journal of Multivariate Analysis*, Volume 217, 2027.
 - Mauro Bernardi, Roberto Casarin, Bertrand Maillet, Lea Petrella [Bayesian Dynamic Quantile Model Averaging](https://link.springer.com/article/10.1007/s10479-024-06378-7), Annals of Operational Research, Volume 363, 2026
 - Cristian Castiglione, Eleonora Arnone, Mauro Bernardi, Alessio Farcomeni, Laura M. Sangalli, [PDE-regularised spatial quantile regression](https://www.sciencedirect.com/science/article/pii/S0047259X24000885), Journal of Multivariate Analysis, Volume 205, 2025
 - Mauro Bernardi, Daniele Bianchi, Nicolas Bianco, [Variational Inference for Large Bayesian Vector Autoregressions](https://www.tandfonline.com/doi/full/10.1080/07350015.2023.2290716), Journal of Business \& Economic Statistics, Volume 42, 2024
